@@ -3,27 +3,48 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sunil%20Acharya&fontSize=50&animation=twinkling&theme=tokyonight" alt="Animated Header" />
 </p>
 
-<!-- Animated Typing Intro -->
+<!-- Advanced Multiline Dynamic Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=500&lines=🤖+AI+Engineer+in+Training;🔮+Learning+Machine+Learning;📊+Data+Science+Enthusiast;💻+Building+Intelligent+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=800&color=7952B3&center=true&vCenter=true&width=600&lines=⚡+Executing+Advanced+AI+Workflows;🔮+Training+Neural+Networks;📊+Decoding+Complex+Data+Systems;💻+Building+Intelligent+Agents" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Interactive About Me (Click to Expand One-by-One)
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y0cXo4M3YydDFqbjA5N250N29maGhpZ2k1Z3A4cnZjcDRvM3I0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Animated AI Robot">
+<!-- One-by-one interactive elements. When you click one, you can focus on it individually -->
+<details>
+  <summary><b>🔭 Currently Working On</b> (Click to Expand)</summary>
+  <blockquote style="margin-top: 10px;">
+    Training smarter neural networks, building automated machine learning pipelines, and deploying predictive architectures.
+  </blockquote>
+</details>
 
-*   🔭 **I’m currently working on:** Training smarter neural networks and automating pipelines.
-*   🌱 **I’m currently learning:** Deep learning models, NLP, and reinforcement learning.
-*   👯 **I’m looking to collaborate on:** AI and Data Science open-source repositories.
-*   ⚡ **Fun fact:** I love telling models to be "creative" and then questioning their life choices.
+<details>
+  <summary><b>🌱 Currently Learning</b> (Click to Expand)</summary>
+  <blockquote style="margin-top: 10px;">
+    Deep learning models, natural language processing (NLP), computer vision, and reinforcement learning strategies.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>👯 Collaboration Interests</b> (Click to Expand)</summary>
+  <blockquote style="margin-top: 10px;">
+    Always open to collaborating on open-source AI frameworks, predictive modeling datasets, and cutting-edge Data Science repositories.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>⚡ Fun Fact</b> (Click to Expand)</summary>
+  <blockquote style="margin-top: 10px;">
+    I spend 80% of my time preparing and cleaning raw datasets, and 20% of my time training models to do the rest.
+  </blockquote>
+</details>
 
 ---
 
 ### 🛠️ AI & Data Science Stack (Glow & Hover)
 
-<!-- Interactive, animated skill icons -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,git,docker,aws,gcp,linux&perline=9" />
@@ -71,7 +92,7 @@
 
 ---
 
-<!-- Live dynamically updated timestamp -->
+<!-- Live continuously updating time tracking counter -->
 <p align="right">
-  <img src="https://img.shields.io/badge/Last%20Updated-July%2015%2C%202026-blueviolet" alt="Last Updated" />
+  <img src="https://img.shields.io/date/1784149200?color=7952B3&label=Continuous%20Time%20Elapsed&style=flat-square" alt="Live Countdown Tracker" />
 </p>
