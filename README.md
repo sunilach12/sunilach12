@@ -1,42 +1,69 @@
-# Hi there! I'm Sunil 👋
-
-<!-- Animated Typing Intro tailored for AI/ML/DS -->
+<!-- Animated Wave Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4A90E2&center=true&vCenter=true&width=450&lines=AI+Engineer+in+Training;Learning+Machine+Learning;Data+Science+Enthusiast;Building+Intelligent+Pipelines" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sunil%20Acharya&fontSize=50&animation=twinkling&theme=tokyonight" alt="Animated Header" />
+</p>
+
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=500&lines=🤖+AI+Engineer+in+Training;🔮+Learning+Machine+Learning;📊+Data+Science+Enthusiast;💻+Building+Intelligent+Agents" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y0cXo4M3YydDFqbjA5N250N29maGhpZ2k1Z3A4cnZjcDRvM3I0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Coding GIF">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y0cXo4M3YydDFqbjA5N250N29maGhpZ2k1Z3A4cnZjcDRvM3I0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Animated AI Robot">
 
-- 🔭 **I’m currently working on:** Building predictive models and deploying AI agents.
-- 🌱 **I’m currently learning:** Deep Learning architectures, Neural Networks, and Advanced Math for ML.
-- 👯 **I’m looking to collaborate on:** Open-source AI projects, Kaggle competitions, or Data Science workflows.
-- 💬 **Ask me about:** Data preprocessing, Python scripting, or training models.
-- ⚡ **Fun fact:** I spend 80% of my time cleaning data and 20% of my time complaining about cleaning data.
+*   🔭 **I’m currently working on:** Training smarter neural networks and automating pipelines.
+*   🌱 **I’m currently learning:** Deep learning models, NLP, and reinforcement learning.
+*   👯 **I’m looking to collaborate on:** AI and Data Science open-source repositories.
+*   ⚡ **Fun fact:** I love telling models to be "creative" and then questioning their life choices.
 
 ---
 
-### 🛠️ AI / ML & Data Science Stack
+### 🛠️ AI & Data Science Stack (Glow & Hover)
 
-<!-- Animated Dev Icons displaying your exact tech stack -->
+<!-- Interactive, animated skill icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,mongodb,git,docker,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,git,docker,aws,gcp,linux&perline=9" />
   </a>
 </p>
 
-#### 📊 Frameworks & Libraries I Use:
-```mermaid
-graph LR
-    A[Data Prep] --> B(Pandas & NumPy)
-    A --> C(Scikit-Learn)
-    D[Deep Learning] --> E(TensorFlow)
-    D --> F(PyTorch)
-    G[Visualization] --> H(Matplotlib & Seaborn)
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#bbf,stroke:#333,stroke-width:2px
-    style G fill:#bfb,stroke:#333,stroke-width:2px
+---
+
+### 🐍 My Commit Snake (Animated Contribution Board)
+<!-- This dynamically generates an animated snake game eating your actual contribution squares! -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sunilach12/sunilach12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 📊 Dynamic Real-Time Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sunil's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilach12&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/YOUR_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
