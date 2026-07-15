@@ -33,7 +33,6 @@
 ---
 
 ### 🐍 My Commit Snake (Animated Contribution Board)
-<!-- This dynamically generates an animated snake game eating your actual contribution squares! -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=true" alt="Activity Graph" />
 </p>
@@ -59,11 +58,20 @@
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/YOUR_USERNAME" target="blank">
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://kaggle.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
+---
+
+<!-- Live dynamically updated timestamp -->
+<p align="right">
+  <img src="https://img.shields.io/badge/Last%20Updated-July%2015%2C%202026-blueviolet" alt="Last Updated" />
+</p>
