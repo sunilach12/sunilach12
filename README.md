@@ -12,7 +12,7 @@
 
 ### 🧠 Interactive About Me (Click to Expand One-by-One)
 
-<!-- One-by-one interactive elements. When you click one, you can focus on it individually -->
+<!-- One-by-one interactive elements. Clicking one reveals it and hides/collapses the rest -->
 <details>
   <summary><b>🔭 Currently Working On</b> (Click to Expand)</summary>
   <blockquote style="margin-top: 10px;">
@@ -95,7 +95,6 @@
 <!-- Live Retro Digital Countdown / Timer -->
 <p align="center">
   <svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg" style="background: #000000; border-radius: 12px; box-shadow: 0 4px 20px rgba(255,140,0,0.15);">
-    <!-- Digital Clock Display font style -->
     <defs>
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
@@ -115,21 +114,19 @@
     
     <!-- Timer Display Container -->
     <g transform="translate(0, 0)">
-      <!-- Background Faded Digits (for the authentic LCD/LED look) -->
+      <!-- Background Faded Digits (creating LCD segments look) -->
       <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="75" class="bg-digits" letter-spacing="4">88:88:88</text>
       
       <!-- Live Animated Active Digits -->
       <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="75" class="digital-glow" letter-spacing="4">
-        <!-- Live CSS animation simulating active countdown behavior -->
         <animate attributeName="opacity" values="1;0.9;1" dur="2s" repeatCount="indefinite" />
         00:04:15
       </text>
     </g>
 
-    <!-- Subtitle -->
+    <!-- Label -->
     <text x="50%" y="85%" fill="#00E676" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" letter-spacing="1">
       ⏱️ EXECUTING AI PIPELINE TIMER
     </text>
   </svg>
 </p>
-
