@@ -91,9 +91,9 @@
 
 ---
 
-<!-- Live Retro Digital Timer (Hosted SVG to bypass GitHub's markdown restrictions) -->
+<!-- Real-Time Moving Countdown Dynamic Widget -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=55&duration=2000&pause=500&color=FF9F0A&center=true&vCenter=true&width=450&height=100&lines=00%3A04%3A15;00%3A04%3A15" alt="Digital Clock Timer" />
+  <img src="https://countdown.free-counters.org/countdown.php?id=1718042400&style=retro" alt="Real-Time Countdown" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%8F%B1%EF%B8%8F_EXECUTING_AI_PIPELINE_TIMER-000000?style=flat-square&textColor=00E676" alt="Timer Label" />
