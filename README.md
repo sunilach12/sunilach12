@@ -12,7 +12,6 @@
 
 ### 🧠 Interactive About Me (Click to Expand One-by-One)
 
-<!-- One-by-one interactive elements. Clicking one reveals it and hides/collapses the rest -->
 <details>
   <summary><b>🔭 Currently Working On</b> (Click to Expand)</summary>
   <blockquote style="margin-top: 10px;">
@@ -92,41 +91,10 @@
 
 ---
 
-<!-- Live Retro Digital Countdown / Timer -->
+<!-- Live Retro Digital Timer (Hosted SVG to bypass GitHub's markdown restrictions) -->
 <p align="center">
-  <svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg" style="background: #000000; border-radius: 12px; box-shadow: 0 4px 20px rgba(255,140,0,0.15);">
-    <defs>
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
-        .digital-glow {
-          font-family: 'Share Tech Mono', 'Courier New', monospace;
-          fill: #FF9F0A;
-          font-weight: bold;
-          text-shadow: 0 0 10px rgba(255, 159, 10, 0.7), 0 0 20px rgba(255, 159, 10, 0.5);
-        }
-        .bg-digits {
-          font-family: 'Share Tech Mono', 'Courier New', monospace;
-          fill: #2C1C05;
-          font-weight: bold;
-        }
-      </style>
-    </defs>
-    
-    <!-- Timer Display Container -->
-    <g transform="translate(0, 0)">
-      <!-- Background Faded Digits (creating LCD segments look) -->
-      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="75" class="bg-digits" letter-spacing="4">88:88:88</text>
-      
-      <!-- Live Animated Active Digits -->
-      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="75" class="digital-glow" letter-spacing="4">
-        <animate attributeName="opacity" values="1;0.9;1" dur="2s" repeatCount="indefinite" />
-        00:04:15
-      </text>
-    </g>
-
-    <!-- Label -->
-    <text x="50%" y="85%" fill="#00E676" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" letter-spacing="1">
-      ⏱️ EXECUTING AI PIPELINE TIMER
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=55&duration=2000&pause=500&color=FF9F0A&center=true&vCenter=true&width=450&height=100&lines=00%3A04%3A15;00%3A04%3A15" alt="Digital Clock Timer" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%8F%B1%EF%B8%8F_EXECUTING_AI_PIPELINE_TIMER-000000?style=flat-square&textColor=00E676" alt="Timer Label" />
 </p>
