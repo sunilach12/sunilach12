@@ -92,7 +92,8 @@
 
 ---
 
-<!-- Live continuously updating time tracking counter -->
+<!-- Live continuously updating time tracking counter (Counting UP from today) -->
 <p align="right">
-  <img src="https://img.shields.io/date/1784149200?color=7952B3&label=Continuous%20Time%20Elapsed&style=flat-square" alt="Live Countdown Tracker" />
+  <img src="https://img.shields.io/date/1784073600?color=7952B3&label=Continuous%20Time%20Elapsed&style=flat-square" alt="Live Time Tracker" />
 </p>
+
