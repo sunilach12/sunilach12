@@ -2,11 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sunil%20Acharya&fontSize=55&animation=twinkling&theme=tokyonight"/>
 </p>
 
-<!-- Advanced Multiline Dynamic Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=800&color=7952B3&center=true&vCenter=true&width=800&lines=⚡+Learner...." 
-  alt="Typing SVG"/>
-</p>
+
+ 
 
 <!-- One-by-one interactive elements. Clicking one reveals it and hides/collapses the rest -->
 <details>
