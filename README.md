@@ -1,36 +1,51 @@
+
 # Sunil Acharya
 
-BTech AI Student at Orchid College of Management and Technology, Kathmandu, Nepal.
+**BTech AI Student | Aspiring AI Engineer**
+
+Orchid College of Management and Technology, Kathmandu, Nepal.
 
 ---
 
 ## About Me
 
-I am an Artificial Intelligence student focused on Machine Learning and Deep Learning. I build intelligent applications and core AI models to solve real-world problems.
-
----
+I am an Artificial Intelligence student interested in Machine Learning, Deep Learning, and developing practical AI solutions to real-world problems.
 
 ## Technical Skills
 
-- **Programming Languages:** Python, JavaScript
-- **AI & Data Science:** Machine Learning, Deep Learning
+- **Programming:** Python, JavaScript
+- **Artificial Intelligence:** Machine Learning, Deep Learning
 - **Languages:** Nepali, English
-
----
 
 ## Featured Projects
 
 ### ExamWise AI
-An AI-powered platform designed to assist students with exam preparation and targeted learning.
+An AI-powered educational platform designed to support students with exam preparation and personalized learning.
 
 ### Chatmodel
-A custom language model interface built for conversational AI tasks.
+An AI chatbot interface developed for conversational AI applications.
+
+---
+
+## GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&theme=github-compact)
 
 ---
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunilach12&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sunilach12&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -39,13 +54,15 @@ A custom language model interface built for conversational AI tasks.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-acharya-7aa867338)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sunilach12)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunilacharya338@gmail.com)
+
 ---
+
+## One Year of Consistency
+
+**November 4, 2026 – November 4, 2027**
+
 > One year of discipline, learning, building, and growth.
 
 <!-- COUNTDOWN_START -->
-### 365 Days : 00 Hours : 22 Minutes : 13 Seconds
-
-**One commitment. No excuses.**
-
+Calculating countdown...
 <!-- COUNTDOWN_END -->
-*Last updated: November 2026*
