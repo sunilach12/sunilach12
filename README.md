@@ -36,15 +36,15 @@ An AI chatbot interface developed for conversational AI applications.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark" alt="GitHub Statistics" />
+  <imgsrc="https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark" alt="Top Languages" />
+  <imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunilach12&theme=dark" alt="GitHub Streak" />
+  <imgsrc="https://streak-stats.demolab.com?user=sunilach12&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
