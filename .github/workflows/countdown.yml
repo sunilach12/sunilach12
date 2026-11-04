@@ -1,0 +1,69 @@
+
+name: Update One Year Countdown
+
+on:
+  schedule:
+    - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-countdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update countdown
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          import re
+
+          deadline = datetime(
+              2027, 11, 4, 23, 59, 59,
+              tzinfo=ZoneInfo("Asia/Kathmandu")
+          )
+
+          now = datetime.now(ZoneInfo("Asia/Kathmandu"))
+          remaining = max(0, int((deadline - now).total_seconds()))
+
+          days, remaining = divmod(remaining, 86400)
+          hours, remaining = divmod(remaining, 3600)
+          minutes, seconds = divmod(remaining, 60)
+
+          content = f"""### ⏳ {days} Days : {hours:02d} Hours : {minutes:02d} Minutes : {seconds:02d} Seconds
+
+          **Every day counts. Keep moving forward.**
+          """
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          updated = re.sub(
+              r"<!-- COUNTDOWN_START -->.*?<!-- COUNTDOWN_END -->",
+              f"<!-- COUNTDOWN_START -->\n{content}\n<!-- COUNTDOWN_END -->",
+              readme,
+              flags=re.S
+          )
+
+          if updated == readme:
+              raise SystemExit("Countdown markers not found in README.md")
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (
+            git commit -m "Update consistency countdown"
+            git push
+          )
