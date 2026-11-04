@@ -36,13 +36,9 @@ An AI chatbot interface developed for conversational AI applications.
 
 ## GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sunilach12&theme=dark)
-
+![GitHub Repos](https://img.shields.io/badge/GitHub-sunilach12-181717?style=for-the-badge&logo=github)
+![Main Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streak](https://streak-stats.demolab.com/?user=sunilach12&theme=dark)
 ---
 
 ## Connect with Me
