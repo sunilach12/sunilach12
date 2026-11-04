@@ -45,7 +45,7 @@ A custom language model interface built for conversational AI tasks.
 <!-- COUNTDOWN_START -->
 ### 365 Days : 00 Hours : 22 Minutes : 13 Seconds
 
-**One year. One commitment. No excuses.**
+**One commitment. No excuses.**
 
 <!-- COUNTDOWN_END -->
 *Last updated: November 2026*
