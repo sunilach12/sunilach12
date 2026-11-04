@@ -30,7 +30,7 @@ An AI chatbot interface developed for conversational AI applications.
 
 ## GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&theme=github-compact)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&theme=github-compact)](https://github.com/sunilach12)
 
 ---
 
