@@ -26,13 +26,7 @@ An AI-powered educational platform designed to support students with exam prepar
 ### Chatmodel
 An AI chatbot interface developed for conversational AI applications.
 
----
-
-## GitHub Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&theme=github-compact)](https://github.com/sunilach12)
-
----
+ 
 
 ## GitHub Statistics
 
