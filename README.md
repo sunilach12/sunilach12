@@ -1,4 +1,3 @@
-
 # Sunil Acharya
 
 **BTech AI Student | Aspiring AI Engineer**
@@ -60,5 +59,5 @@ An AI chatbot interface developed for conversational AI applications.
 > One year of discipline, learning, building, and growth.
 
 <!-- COUNTDOWN_START -->
-Calculating countdown...
+⏳ **365 days, 0 hours, 0 minutes, and 0 seconds** remaining until November 4, 2027!
 <!-- COUNTDOWN_END -->
