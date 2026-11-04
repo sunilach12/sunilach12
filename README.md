@@ -29,20 +29,21 @@ An AI chatbot interface developed for conversational AI applications.
 
 ---
 
-
 ## GitHub Contribution Graph
 
-![GitHub Activity Graph](https://camo.githubusercontent.com/4493c7f41ce2b7409d3f69530dbbea8c3726d46596cc9007ce846d8ae0933da1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d73756e696c6163683132267468656d653d6769746875622d636f6d70616374)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilach12&theme=github-compact)
 
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://camo.githubusercontent.com/e63e9fd578718d442ed6865b3445dd8a81f0d047d007a8891fe9f47932b2fc6b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73756e696c61636831322673686f775f69636f6e733d74727565267468656d653d6461726b)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark)
 
-![Top Languages](https://camo.githubusercontent.com/ae41ed8543108423d677817621d3258a3fb743284004c26c7152c270b0acf040/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73756e696c6163683132266c61796f75743d636f6d70616374267468656d653d6461726b)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sunilach12&theme=dark)
+
+---
 
 ## Connect with Me
 
