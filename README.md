@@ -54,5 +54,8 @@ An AI chatbot interface developed for conversational AI applications.
 > One year of discipline, learning, building, and growth.
 
 <!-- COUNTDOWN_START -->
-⏳ **365 days, 0 hours, 0 minutes, and 0 seconds** remaining until November 4, 2027!
+### 364 Days : 19 Hours : 16 Minutes : 12 Seconds
+
+**One year. One commitment. No excuses.**
+
 <!-- COUNTDOWN_END -->
