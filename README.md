@@ -43,6 +43,9 @@ A custom language model interface built for conversational AI tasks.
 > One year of discipline, learning, building, and growth.
 
 <!-- COUNTDOWN_START -->
-**Calculating countdown...**
+### 365 Days : 00 Hours : 22 Minutes : 13 Seconds
+
+**One year. One commitment. No excuses.**
+
 <!-- COUNTDOWN_END -->
 *Last updated: November 2026*
