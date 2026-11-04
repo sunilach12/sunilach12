@@ -17,6 +17,8 @@ I am an Artificial Intelligence student interested in Machine Learning, Deep Lea
 - **Artificial Intelligence:** Machine Learning, Deep Learning
 - **Languages:** Nepali, English
 
+---
+
 ## Featured Projects
 
 ### ExamWise AI
@@ -35,17 +37,11 @@ An AI chatbot interface developed for conversational AI applications.
 
 ## GitHub Statistics
 
-<p align="center">
-  <imgsrc="https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark" alt="GitHub Statistics" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilach12&show_icons=true&theme=dark)
 
-<p align="center">
-  <imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark)
 
-<p align="center">
-  <imgsrc="https://streak-stats.demolab.com?user=sunilach12&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sunilach12&theme=dark)
 
 ---
 
