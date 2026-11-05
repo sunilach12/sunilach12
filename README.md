@@ -51,7 +51,7 @@ An AI chatbot interface developed for conversational AI applications.
 > One year of discipline, learning, building, and growth.
 
 <!-- COUNTDOWN_START -->
-### 364 Days : 14 Hours : 51 Minutes : 53 Seconds
+### 364 Days : 06 Hours : 57 Minutes : 34 Seconds
 
 **One year. One commitment. No excuses.**
 
