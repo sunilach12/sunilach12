@@ -35,12 +35,6 @@ An AI chatbot interface developed for conversational AI applications.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilach12&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=brishabkc24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=brishabkc24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=brishabkc24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- 
 
 ## Connect with Me
 
